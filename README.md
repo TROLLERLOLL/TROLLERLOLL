@@ -1,17 +1,13 @@
-### Hi there 👋
- ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TROLLERLOLL&theme=dark&layout=compact)
- 
-<!--
-**TROLLERLOLL/TROLLERLOLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm TROLLERLOLL 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about coding, enjoy working with different programming languages, and love learning new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Languages I work with:
+- C#
+- C++
+
+### 🚀 GitHub Stats:
+
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TROLLERLOLL&theme=dark&layout=compact)
+
+Thanks for visiting my profile!
